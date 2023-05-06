@@ -13,8 +13,7 @@ https://user-images.githubusercontent.com/58857711/236635390-d3a3a95c-c258-4a9f-
 
 
 ## TECHNOLOGIES:
-
-** React JS - for user interface
-** MongoDB - for data storage
-** Material UI - for designing
-** Node JS - Controllers, Models
+1) React JS - for user interface
+2) MongoDB - for data storage
+3) Material UI - for designing
+4) Node JS - Controllers, Models
